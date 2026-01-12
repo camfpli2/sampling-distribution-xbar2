@@ -85,9 +85,9 @@ function setup() {
   yHeight = windowHeight;
 
   //--- TEXT SCALING LOGIC ---
-  Original Area = 1400 * 800 = 1,120,000
-  Formula: NewSize = OldSize * (NewArea / 1,120,000)
-  textScale = (xWidth * yHeight) / 1120000;
+  //Original Area = 1400 * 800 = 1,120,000
+  //Formula: NewSize = OldSize * (NewArea / 1,120,000)
+  //textScale = (xWidth * yHeight) / 1120000;
 
   // ALTERNATIVE: Use this line below if the text gets too big/small too fast (Linear Scaling)
    textScale = sqrt((xWidth * yHeight) / 1120000); 
