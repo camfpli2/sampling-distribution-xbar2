@@ -1,0 +1,859 @@
+1,"Burke, Chris",Arizona Diamondbacks,OF,955000.00,n,0
+2,"Byrnes, Eric",Arizona Diamondbacks,OF,6666666.00,n,1
+3,"Cruz, Juan",Arizona Diamondbacks,P,1937500.00,n,1
+4,"Davis, Doug",Arizona Diamondbacks,P,7750000.00,n,1
+5,"Drew, Stephen",Arizona Diamondbacks,SS,1500000.00,n,1
+6,"Gonzalez, Edgar Gerardo",Arizona Diamondbacks,P,411000.00,n,0
+7,"Hammock, Robby",Arizona Diamondbacks,C,409500.00,n,0
+8,"Haren, Danny",Arizona Diamondbacks,P,4050000.00,n,1
+9,"Hudson, Orlando",Arizona Diamondbacks,2B,6250000.00,n,1
+10,"Jackson, Conor",Arizona Diamondbacks,1B,419500.00,n,0
+11,"Johnson, Randy",Arizona Diamondbacks,P,15100546.00,n,1
+12,"Lyon, Brandon",Arizona Diamondbacks,P,3125000.00,n,1
+13,"Medders, Brandon",Arizona Diamondbacks,P,409500.00,n,0
+14,"Montero, Miguel",Arizona Diamondbacks,C,400500.00,n,0
+15,"Ojeda, Augie",Arizona Diamondbacks,SS,550000.00,n,0
+16,"Owings, Micah",Arizona Diamondbacks,P,402000.00,n,0
+17,"Pena, Tony (Antonio)",Arizona Diamondbacks,P,405500.00,n,0
+18,"Petit, Yusmeiro",Arizona Diamondbacks,P,394000.00,n,0
+19,"Qualls, Chad",Arizona Diamondbacks,P,1312500.00,n,1
+20,"Reynolds, Mark",Arizona Diamondbacks,SS/3B,396500.00,n,0
+21,"Slaten, Doug",Arizona Diamondbacks,P,400500.00,n,0
+22,"Snyder, Chris",Arizona Diamondbacks,C,1875000.00,n,1
+23,"Tracy, Chad",Arizona Diamondbacks,1B/3B,4000000.00,n,1
+24,"Webb, Brandon",Arizona Diamondbacks,P,5500000.00,n,1
+25,"Young, Chris B.",Arizona Diamondbacks,OF,406000.00,n,0
+26,"Salazar, Jeff",Arizona Diamondbacks,OF,393000.00,n,0
+27,"Upton, Justin",Arizona Diamondbacks,OF,393000.00,n,0
+28,"Romero, Alex",Arizona Diamondbacks,OF,390000.00,n,0
+29,"Hampton, Mike",Atlanta Braves,P,15975184.00,n,1
+30,"Hudson, Tim",Atlanta Braves,P,15500000.00,n,1
+31,"Smoltz, John",Atlanta Braves,P,14000000.00,n,1
+32,"Teixeira, Mark",Atlanta Braves,1B,12500000.00,n,1
+33,"Jones, Chipper",Atlanta Braves,3B,12333333.00,n,1
+34,"Glavine, Tom",Atlanta Braves,P,8000000.00,n,1
+35,"Kotsay, Mark",Atlanta Braves,OF,7000000.00,n,1
+36,"Soriano, Rafael",Atlanta Braves,P,2650000.00,n,1
+37,"Gonzalez, Mike",Atlanta Braves,P,2362500.00,n,1
+38,"Ohman, Will",Atlanta Braves,P,1600000.00,n,1
+39,"Infante, Omar",Atlanta Braves,SS,1400000.00,n,1
+40,"Diaz, Matt",Atlanta Braves,OF,1225000.00,n,1
+41,"McCann, Brian",Atlanta Braves,C,966666.00,n,0
+42,"Francoeur, Jeff",Atlanta Braves,OF,460000.00,n,0
+43,"Johnson, Kelly",Atlanta Braves,2B,430000.00,n,0
+44,"James, Chuck",Atlanta Braves,P,427500.00,n,0
+45,"Moylan, Peter",Atlanta Braves,P,410000.00,n,0
+46,"Gotay, Ruben",Atlanta Braves,2B,403000.00,n,0
+47,"Escobar, Yunel",Atlanta Braves,SS,402500.00,n,0
+48,"Bennett, Jeff",Atlanta Braves,P,400000.00,n,0
+49,"Miller, Corky",Atlanta Braves,C,400000.00,n,0
+50,"Ring, Royce",Atlanta Braves,P,397500.00,n,0
+51,"Acosta, Manny",Atlanta Braves,P,392500.00,n,0
+52,"Blanco, Gregor",Atlanta Braves,OF,390000.00,n,0
+53,"Boyer, Blaine",Atlanta Braves,P,390000.00,n,0
+54,"Jurrjens, Jair",Atlanta Braves,P,390000.00,n,0
+55,"Lerew, Anthony",Atlanta Braves,P,390000.00,n,0
+56,"Pena, Brayan",Atlanta Braves,C,390000.00,n,0
+57,"Prado, Martin",Atlanta Braves,2B,390000.00,n,0
+58,"Resop, Chris",Atlanta Braves,P,390000.00,n,0
+59,"Huff, Aubrey",Baltimore Orioles,3B,8000000.00,a,1
+60,"Mora, Melvin",Baltimore Orioles,3B,7826914.00,a,1
+61,"Hernandez, Ramon",Baltimore Orioles,C,7500000.00,a,1
+62,"Roberts, Brian",Baltimore Orioles,2B,6300000.00,a,1
+63,"Baez, Danys",Baltimore Orioles,P,6166666.00,a,1
+64,"Payton, Jay",Baltimore Orioles,OF,5000000.00,a,1
+65,"Walker, Jamie",Baltimore Orioles,P,4500000.00,a,1
+66,"Millar, Kevin",Baltimore Orioles,1B,3800000.00,a,1
+67,"Bradford, Chad",Baltimore Orioles,P,3666666.00,a,1
+68,"Cabrera, Daniel",Baltimore Orioles,P,2875000.00,a,1
+69,"Trachsel, Steve",Baltimore Orioles,P,1500000.00,a,1
+70,"Sherrill, George",Baltimore Orioles,P,980000.00,a,0
+71,"Loewen, Adam",Baltimore Orioles,P,816000.00,a,0
+72,"Guthrie, Jeremy",Baltimore Orioles,P,770000.00,a,0
+73,"Cabrera, Fernando",Baltimore Orioles,P,575000.00,a,0
+74,"Aquino, Greg",Baltimore Orioles,P,500000.00,a,0
+75,"Markakis, Nick",Baltimore Orioles,OF,455000.00,a,0
+76,"Ray, Chris",Baltimore Orioles,P,445000.00,a,0
+77,"Scott, Luke",Baltimore Orioles,OF,430000.00,a,0
+78,"Quiroz, Guillermo",Baltimore Orioles,C,400000.00,a,0
+79,"Albers, Matt",Baltimore Orioles,P,395000.00,a,0
+80,"Burress, Brian",Baltimore Orioles,P,395000.00,a,0
+81,"Bierd, Randor",Baltimore Orioles,P,390000.00,a,0
+82,"Bynum, Freddie",Baltimore Orioles,SS,390000.00,a,0
+83,"Cherry, Rocky",Baltimore Orioles,P,390000.00,a,0
+84,"Fahey, Brandon",Baltimore Orioles,SS,390000.00,a,0
+85,"Hernandez, Luis",Baltimore Orioles,SS,390000.00,a,0
+86,"Hoey, James",Baltimore Orioles,P,390000.00,a,0
+87,"Jones, Adam",Baltimore Orioles,OF,390000.00,a,0
+88,"Moore, Scott",Baltimore Orioles,3B,390000.00,a,0
+89,"Patton, Troy",Baltimore Orioles,P,390000.00,a,0
+90,"Sarfate, Dennis",Baltimore Orioles,P,390000.00,a,0
+91,"Ramirez, Manny",Boston Red Sox,OF,18929923.00,a,1
+92,"Drew, JD",Boston Red Sox,OF,14000000.00,a,1
+93,"Ortiz, David",Boston Red Sox,DH,13000000.00,a,1
+94,"Lowell, Mike",Boston Red Sox,3B,12500000.00,a,1
+95,"Varitek, Jason",Boston Red Sox,C,10442030.00,a,1
+96,"Beckett, Josh",Boston Red Sox,P,10166666.00,a,1
+97,"Lugo, Julio",Boston Red Sox,SS,9250000.00,a,1
+98,"Matsuzaka, Daisuke",Boston Red Sox,P,8333333.00,a,1
+99,"Schilling, Curt",Boston Red Sox,P,8000000.00,a,1
+100,"Crisp, Coco",Boston Red Sox,OF,5083333.00,a,1
+101,"Wakefield, Tim",Boston Red Sox,P,4000000.00,a,1
+102,"Tavarez, Julian",Boston Red Sox,P,3850000.00,a,1
+103,"Timlin, Mike",Boston Red Sox,P,3000000.00,a,1
+104,"Youkilis, Kevin",Boston Red Sox,1B,3000000.00,a,1
+105,"Cora, Alex",Boston Red Sox,2B,2000000.00,a,1
+106,"Okajima, Hideki",Boston Red Sox,P,1275000.00,a,1
+107,"Lopez, Javier",Boston Red Sox,P,840000.00,a,0
+108,"Snyder, Kyle",Boston Red Sox,P,835000.00,a,0
+109,"Casey, Sean",Boston Red Sox,1B,800000.00,a,0
+110,"Papelbon, Jonathan",Boston Red Sox,P,775000.00,a,0
+111,"Pedroia, Dustin",Boston Red Sox,2B,457000.00,a,0
+112,"Lester, Jonathan",Boston Red Sox,P,421500.00,a,0
+113,"Delcarmen, Manny",Boston Red Sox,P,421000.00,a,0
+114,"Ellsbury, Jacoby",Boston Red Sox,OF,406000.00,a,0
+115,"Corey, Bryan",Boston Red Sox,P,405000.00,a,0
+116,"Aardsma, Dave",Boston Red Sox,P,403250.00,a,0
+117,"Cash, Kevin",Boston Red Sox,C,400000.00,a,0
+118,"Buchholz, Clay",Boston Red Sox,P,396000.00,a,0
+119,"Zambrano, Carlos",Chicago Cubs,P,16000000.00,n,1
+120,"Ramirez, Aramis",Chicago Cubs,3B,15000000.00,n,1
+121,"Soriano, Alfonso",Chicago Cubs,OF,14000000.00,n,1
+122,"Lee, Derrek",Chicago Cubs,1B,13250000.00,n,1
+123,"Lilly, Ted",Chicago Cubs,P,8000000.00,n,1
+124,"Dempster, Ryan",Chicago Cubs,P,7333333.00,n,1
+125,"Fukudome, Kosuke",Chicago Cubs,OF,7000000.00,n,1
+126,"Marquis, Jason",Chicago Cubs,P,6375000.00,n,1
+127,"De Rosa, Mark",Chicago Cubs,2B,4750000.00,n,1
+128,"Howry, Bobby",Chicago Cubs,P,4500000.00,n,1
+129,"Wood, Kerry",Chicago Cubs,P,4200000.00,n,1
+130,"Eyre, Scott",Chicago Cubs,P,3800000.00,n,1
+131,"Lieber, Jon",Chicago Cubs,P,3500000.00,n,1
+132,"Blanco, Henry",Chicago Cubs,C,3175000.00,n,1
+133,"Johnson, Reed",Chicago Cubs,OF,1300000.00,n,1
+134,"Ward, Daryle",Chicago Cubs,1B,1200000.00,n,1
+135,"Wuertz, Michael",Chicago Cubs,P,860000.00,n,0
+136,"Hill, Rich",Chicago Cubs,P,445000.00,n,0
+137,"Marmol, Carlos",Chicago Cubs,P,430000.00,n,0
+138,"Theriot, Ryan",Chicago Cubs,SS,428000.00,n,0
+139,"Cedeno, Ronny",Chicago Cubs,SS,407000.00,n,0
+140,"Fontenot, Mike",Chicago Cubs,2B,405000.00,n,0
+141,"Pie, Felix",Chicago Cubs,OF,401500.00,n,0
+142,"Guzman, Angel",Chicago Cubs,P,401000.00,n,0
+143,"Soto, Geovany",Chicago Cubs,C,401000.00,n,0
+144,"Hart, Kevin",Chicago Cubs,P,392500.00,n,0
+145,"Pignatiello, Carmen",Chicago Cubs,P,391500.00,n,0
+146,"Thome, Jim",Chicago White Sox,DH,15666666.00,a,1
+147,"Buehrle, Mark",Chicago White Sox,P,14000000.00,a,1
+148,"Konerko, Paul",Chicago White Sox,1B,12000000.00,a,1
+149,"Vazquez, Javier",Chicago White Sox,P,11500000.00,a,1
+150,"Cabrera, Orlando",Chicago White Sox,SS,10000000.00,a,1
+151,"Contreras, Jose",Chicago White Sox,P,10000000.00,a,1
+152,"Dye, Jermaine",Chicago White Sox,OF,9500000.00,a,1
+153,"Pierzynski, AJ",Chicago White Sox,C,5850000.00,a,1
+154,"Crede, Joe",Chicago White Sox,3B,5100000.00,a,1
+155,"Dotel, Octavio",Chicago White Sox,P,5000000.00,a,1
+156,"Uribe, Juan",Chicago White Sox,SS,4500000.00,a,1
+157,"Linebrink, Scott",Chicago White Sox,P,4000000.00,a,1
+158,"Swisher, Nick",Chicago White Sox,OF,3600000.00,a,1
+159,"MacDougal, Mike",Chicago White Sox,P,1950000.00,a,1
+160,"Hall, Toby",Chicago White Sox,C,1750000.00,a,1
+161,"Ramirez, Alexei",Chicago White Sox,SS,1111666.00,a,1
+162,"Ozuna, Pablo",Chicago White Sox,2B,1050000.00,a,1
+163,"Thornton, Matt",Chicago White Sox,P,875000.00,a,0
+164,"Jenks, Bobby",Chicago White Sox,P,550000.00,a,0
+165,"Logan, Boone",Chicago White Sox,P,405000.00,a,0
+166,"Danks, John",Chicago White Sox,P,400000.00,a,0
+167,"Floyd, Gavin",Chicago White Sox,P,400000.00,a,0
+168,"Quentin, Carlos",Chicago White Sox,OF,400000.00,a,0
+169,"Owens, Jerry",Chicago White Sox,OF,397500.00,a,0
+170,"Masset, Nick",Chicago White Sox,P,396000.00,a,0
+171,"Anderson, Brian Nikoli",Chicago White Sox,OF,395000.00,a,0
+172,"Richar, Danny",Chicago White Sox,2B,392500.00,a,0
+173,"Dunn, Adam",Cincinnati Reds,OF,13000000.00,n,1
+174,"Cordero, Francisco",Cincinnati Reds,P,8625000.00,n,1
+175,"Griffey Jr., Ken",Cincinnati Reds,OF,8282695.00,n,1
+176,"Harang, Aaron",Cincinnati Reds,P,6750000.00,n,1
+177,"Gonzalez, Alex Luis",Cincinnati Reds,SS,4625000.00,n,1
+178,"Arroyo, Bronson",Cincinnati Reds,P,4575000.00,n,1
+179,"Weathers, David",Cincinnati Reds,P,3300000.00,n,1
+180,"Affeldt, Jeremy",Cincinnati Reds,P,3000000.00,n,1
+181,"Freel, Ryan",Cincinnati Reds,OF,3000000.00,n,1
+182,"Patterson, Corey",Cincinnati Reds,OF,3000000.00,n,1
+183,"Phillips, Brandon",Cincinnati Reds,2B,2937500.00,n,1
+184,"Ross, David",Cincinnati Reds,C,2525000.00,n,1
+185,"Hatteberg, Scott",Cincinnati Reds,1B,1850000.00,n,1
+186,"Belisle, Matt",Cincinnati Reds,P,1250000.00,n,1
+187,"Castro, Juan",Cincinnati Reds,2B,975000.00,n,0
+188,"Coffey, Todd",Cincinnati Reds,P,907500.00,n,0
+189,"Bako, Paul",Cincinnati Reds,C,750000.00,n,0
+190,"Mercker, Kent",Cincinnati Reds,P,600000.00,n,0
+191,"Lincoln, Mike",Cincinnati Reds,P,550000.00,n,0
+192,"Encarnacion, Edwin",Cincinnati Reds,3B,450000.00,n,0
+193,"Hopper, Norris",Cincinnati Reds,OF,402500.00,n,0
+194,"Keppinger, Jeff",Cincinnati Reds,SS,402500.00,n,0
+195,"Fogg, Josh",Cincinnati Reds,P,400000.00,n,0
+196,"Burton, Levi",Cincinnati Reds,P,395000.00,n,0
+197,"Livingston, Bobby",Cincinnati Reds,P,392500.00,n,0
+198,"Volquez, Edison",Cincinnati Reds,P,392500.00,n,0
+199,"Cueto, Johnny",Cincinnati Reds,P,390000.00,n,0
+200,"Votto, Joey",Cincinnati Reds,1B,390000.00,n,0
+201,"Sabathia, CC",Cleveland Indians,P,11000000.00,a,1
+202,"Westbrook, Jake",Cleveland Indians,P,10000000.00,a,1
+203,"Hafner, Travis",Cleveland Indians,DH,8050000.00,a,1
+204,"Byrd, Paul",Cleveland Indians,P,7500000.00,a,1
+205,"Blake, Casey",Cleveland Indians,3B,6100000.00,a,1
+206,"Martinez, Victor",Cleveland Indians,C,4450000.00,a,1
+207,"Borowski, Joe",Cleveland Indians,P,4000000.00,a,1
+208,"Lee, Cliff",Cleveland Indians,P,4000000.00,a,1
+209,"Dellucci, David",Cleveland Indians,OF,3750000.00,a,1
+210,"Sizemore, Grady",Cleveland Indians,OF,3166666.00,a,1
+211,"Kobayashi, Masahide",Cleveland Indians,P,3000000.00,a,1
+212,"Peralta, Jhonny",Cleveland Indians,SS,2500000.00,a,1
+213,"Michaels, Jason",Cleveland Indians,OF,2200000.00,a,1
+214,"Carroll, Jamey",Cleveland Indians,2B,2150000.00,a,1
+215,"Betancourt, Rafael",Cleveland Indians,P,2050000.00,a,1
+216,"Julio, Jorge",Cleveland Indians,P,1000000.00,a,1
+217,"Carmona, Fausto",Cleveland Indians,P,457800.00,a,0
+218,"Garko, Ryan",Cleveland Indians,1B,420100.00,a,0
+219,"Perez, Rafael",Cleveland Indians,P,406700.00,a,0
+220,"Gutierrez, Franklin",Cleveland Indians,OF,404400.00,a,0
+221,"Shoppach, Kelly",Cleveland Indians,C,404100.00,a,0
+222,"Cabrera, Asdrubal",Cleveland Indians,SS,393300.00,a,0
+223,"Lewis, Jensen",Cleveland Indians,P,393000.00,a,0
+224,"Breslow, Craig",Cleveland Indians,P,392000.00,a,0
+225,"Marte, Andy",Cleveland Indians,3B,391600.00,a,0
+226,"Choo, Shin-soo",Cleveland Indians,OF,390400.00,a,0
+227,"Helton, Todd",Colorado Rockies,1B,16600000.00,n,1
+228,"Holliday, Matt",Colorado Rockies,OF,9500000.00,n,1
+229,"Cook, Aaron",Colorado Rockies,P,5125000.00,n,1
+230,"Fuentes, Brian",Colorado Rockies,P,5050000.00,n,1
+231,"Atkins, Garrett",Colorado Rockies,3B,4387500.00,n,1
+232,"Hawpe, Brad",Colorado Rockies,OF,3925000.00,n,1
+233,"Vizcaino, Luis",Colorado Rockies,P,3500000.00,n,1
+234,"Wells, Kip",Colorado Rockies,P,3100000.00,n,1
+235,"Francis, Jeff",Colorado Rockies,P,3000000.00,n,1
+236,"Torrealba, Yorvit",Colorado Rockies,C,3000000.00,n,1
+237,"Herges, Matt",Colorado Rockies,P,2000000.00,n,1
+238,"Taveras, Willy",Colorado Rockies,OF,1975000.00,n,1
+239,"Redman, Mark",Colorado Rockies,P,1000000.00,n,1
+240,"Corpas, Manuel",Colorado Rockies,P,775000.00,n,0
+241,"Podsednik, Scott",Colorado Rockies,OF,750000.00,n,0
+242,"Tulowitzki, Troy",Colorado Rockies,SS,750000.00,n,0
+243,"Bowie, Micah",Colorado Rockies,P,650000.00,n,0
+244,"Barmes, Clint",Colorado Rockies,SS,405000.00,n,0
+245,"Baker, Jeff",Colorado Rockies,3B,403000.00,n,0
+246,"Buchholz, Taylor",Colorado Rockies,P,399000.00,n,0
+247,"Hirsh, Jason",Colorado Rockies,P,396000.00,n,0
+248,"Iannetta, Chris",Colorado Rockies,C,396000.00,n,0
+249,"Spilborghs, Ryan",Colorado Rockies,OF,396000.00,n,0
+250,"Jimenez, Ubaldo",Colorado Rockies,P,392000.00,n,0
+251,"Morales, Franklin",Colorado Rockies,P,391000.00,n,0
+252,"Nix, Jayson",Colorado Rockies,2B,390000.00,n,0
+253,"Ordonez, Magglio",Detroit Tigers,OF,15768174.00,a,1
+254,"Sheffield, Gary",Detroit Tigers,OF,13326306.00,a,1
+255,"Rodriguez, Ivan",Detroit Tigers,C,12379883.00,a,1
+256,"Guillen, Carlos",Detroit Tigers,SS,12000000.00,a,1
+257,"Cabrera, Miguel",Detroit Tigers,3B,11300000.00,a,1
+258,"Renteria, Edgar",Detroit Tigers,SS,10000000.00,a,1
+259,"Bonderman, Jeremy",Detroit Tigers,P,8500000.00,a,1
+260,"Rogers, Kenny",Detroit Tigers,P,8000000.00,a,1
+261,"Jones, Todd",Detroit Tigers,P,7000000.00,a,1
+262,"Willis, Dontrelle",Detroit Tigers,P,7000000.00,a,1
+263,"Jones, Jacque",Detroit Tigers,OF,6333333.00,a,1
+264,"Inge, Brandon",Detroit Tigers,3B,6200000.00,a,1
+265,"Polanco, Placido",Detroit Tigers,2B,4600000.00,a,1
+266,"Robertson, Nate",Detroit Tigers,P,4250000.00,a,1
+267,"Rodney, Fernando",Detroit Tigers,P,1700000.00,a,1
+268,"Thames, Marcus",Detroit Tigers,OF,1275000.00,a,1
+269,"Verlander, Justin",Detroit Tigers,P,1130000.00,a,1
+270,"Granderson, Curtis",Detroit Tigers,OF,1000000.00,a,1
+271,"Wilson, Vance",Detroit Tigers,C,950000.00,a,0
+272,"Seay, Bobby",Detroit Tigers,P,780000.00,a,0
+273,"Santiago, Ramon",Detroit Tigers,SS,575000.00,a,0
+274,"Grilli, Jason",Detroit Tigers,P,420000.00,a,0
+275,"Zumaya, Joel",Detroit Tigers,P,420000.00,a,0
+276,"Miner, Zach",Detroit Tigers,P,410000.00,a,0
+277,"Lopez, Aquilino",Detroit Tigers,P,400000.00,a,0
+278,"Raburn, Ryan",Detroit Tigers,OF,396000.00,a,0
+279,"Bautista, Denny",Detroit Tigers,P,395000.00,a,0
+280,"Bazardo, Yorman",Detroit Tigers,P,395000.00,a,0
+281,"Tata, Jordan",Detroit Tigers,P,391500.00,a,0
+282,"Thomas, Clete",Detroit Tigers,OF,390000.00,a,0
+283,"Gregg, Kevin",Florida Marlins,P,2500000.00,n,1
+284,"Miller, Andrew",Florida Marlins,P,2212500.00,n,1
+285,"Gonzalez, Luis E.",Florida Marlins,OF,2000000.00,n,1
+286,"Hendrickson, Mark",Florida Marlins,P,1500000.00,n,1
+287,"Mitre, Sergio",Florida Marlins,P,1200000.00,n,1
+288,"Amezaga, Alfredo",Florida Marlins,SS,945000.00,n,0
+289,"Miller, Justin",Florida Marlins,P,750000.00,n,0
+290,"Treanor, Matt",Florida Marlins,C,705000.00,n,0
+291,"Cantu, Jorge",Florida Marlins,2B,500000.00,n,0
+292,"Ramirez, Hanley",Florida Marlins,SS,439000.00,n,0
+293,"Uggla, Dan",Florida Marlins,2B,417000.00,n,0
+294,"Olsen, Scott",Florida Marlins,P,405000.00,n,0
+295,"Willingham, Josh",Florida Marlins,OF,405000.00,n,0
+296,"Gardner, Lee",Florida Marlins,P,402500.00,n,0
+297,"Hermida, Jeremy",Florida Marlins,OF,395000.00,n,0
+298,"Jacobs, Mike",Florida Marlins,1B,395000.00,n,0
+299,"Lindstrom, Matt",Florida Marlins,P,395000.00,n,0
+300,"Tankersley, Taylor",Florida Marlins,P,392500.00,n,0
+301,"Pinto, Renyel",Florida Marlins,P,391500.00,n,0
+302,"Vandenhurk, Henricus",Florida Marlins,P,391500.00,n,0
+303,"Andino, Robert",Florida Marlins,SS,390000.00,n,0
+304,"Carroll, Brett",Florida Marlins,OF,390000.00,n,0
+305,"De Aza, Alejandro",Florida Marlins,OF,390000.00,n,0
+306,"Garcia, Harvey",Florida Marlins,P,390000.00,n,0
+307,"Hoover, Paul",Florida Marlins,C,390000.00,n,0
+308,"Johnson, Josh",Florida Marlins,P,390000.00,n,0
+309,"Kensing, Logan",Florida Marlins,P,390000.00,n,0
+310,"Nolasco, Ricky",Florida Marlins,P,390000.00,n,0
+311,"Owens, Henry",Florida Marlins,P,390000.00,n,0
+312,"Rabelo, Mike",Florida Marlins,C,390000.00,n,0
+313,"Ross, Cody",Florida Marlins,OF,390000.00,n,0
+314,"Sanchez, Anibal",Florida Marlins,P,390000.00,n,0
+315,"Wood, Jason",Florida Marlins,SS,390000.00,n,0
+316,"Tejada, Miguel",Houston Astros,SS,14811414.00,n,1
+317,"Berkman, Lance",Houston Astros,1B,14500000.00,n,1
+318,"Oswalt, Roy",Houston Astros,P,13000000.00,n,1
+319,"Lee, Carlos",Houston Astros,OF,12500000.00,n,1
+320,"Matsui, Kazuo",Houston Astros,2B,5500000.00,n,1
+321,"Valverde, Jose",Houston Astros,P,4700000.00,n,1
+322,"Wiggington, Ty",Houston Astros,3B,4350000.00,n,1
+323,"Loretta, Mark",Houston Astros,2B,2750000.00,n,1
+324,"Brocail, Doug",Houston Astros,P,2500000.00,n,1
+325,"Ausmus, Brad",Houston Astros,C,2000000.00,n,1
+326,"Chacon, Shawn",Houston Astros,P,2000000.00,n,1
+327,"Geary, Geoff",Houston Astros,P,1125000.00,n,1
+328,"Villarreal, Oscar",Houston Astros,P,1125000.00,n,1
+329,"Blum, Geoff",Houston Astros,2B,1100000.00,n,1
+330,"Erstad, Darin",Houston Astros,1B,1000000.00,n,1
+331,"Backe, Brandon",Houston Astros,P,800000.00,n,0
+332,"Borkowski, Dave",Houston Astros,P,800000.00,n,0
+333,"Cruz Jr., Jose",Houston Astros,OF,650000.00,n,0
+334,"Moehler, Brian",Houston Astros,P,500000.00,n,0
+335,"Rodriguez, Wandy",Houston Astros,P,451000.00,n,0
+336,"Quintero, Humberto",Houston Astros,C,405000.00,n,0
+337,"Sampson, Chris",Houston Astros,P,401000.00,n,0
+338,"Bourn, Michael",Houston Astros,OF,396000.00,n,0
+339,"Pence, Hunter",Houston Astros,OF,396000.00,n,0
+340,"Paulino, Felipe",Houston Astros,P,390000.00,n,0
+341,"Towles, JR",Houston Astros,C,390000.00,n,0
+342,"Wright, Wesley",Houston Astros,P,390000.00,n,0
+343,"Guillen, Jose",Kansas City Royals,OF,12000000.00,a,1
+344,"Meche, Gil",Kansas City Royals,P,11400000.00,a,1
+345,"Grudzielanek, Mark",Kansas City Royals,2B,4500000.00,a,1
+346,"Mahay, Ron",Kansas City Royals,P,4000000.00,a,1
+347,"Tomko, Brett",Kansas City Royals,P,3000000.00,a,1
+348,"DeJesus, David",Kansas City Royals,OF,2500000.00,a,1
+349,"Yabuta, Yasuhiko",Kansas City Royals,P,2500000.00,a,1
+350,"Teahen, Mark",Kansas City Royals,OF,2337500.00,a,1
+351,"Bale, John",Kansas City Royals,P,2200000.00,a,1
+352,"Buck, John",Kansas City Royals,C,2200000.00,a,1
+353,"Olivo, Miguel",Kansas City Royals,C,2050000.00,a,1
+354,"Greinke, Zack",Kansas City Royals,P,1400000.00,a,1
+355,"Gobble, Jimmy",Kansas City Royals,P,1312500.00,a,1
+356,"Gload, Ross",Kansas City Royals,1B,1300000.00,a,1
+357,"German, Esteban",Kansas City Royals,3B,1000000.00,a,1
+358,"Hudson, Luke",Kansas City Royals,P,475000.00,a,0
+359,"Gathright, Joey",Kansas City Royals,OF,427000.00,a,0
+360,"Soria, Joakim",Kansas City Royals,P,426500.00,a,0
+361,"Bannister, Brian",Kansas City Royals,P,421000.00,a,0
+362,"Gordon, Alex",Kansas City Royals,3B,406000.00,a,0
+363,"Nunez, Leo",Kansas City Royals,P,405000.00,a,0
+364,"Pena Jr., Tony",Kansas City Royals,SS,405000.00,a,0
+365,"Butler, Billy",Kansas City Royals,1B,399000.00,a,0
+366,"Ramirez, Ramon",Kansas City Royals,P,397000.00,a,0
+367,"Callaspo, Alberto",Kansas City Royals,2B,394000.00,a,0
+368,"Tupman, Matt",Kansas City Royals,C,390000.00,a,0
+369,"Hunter, Torii",Los Angeles Angels,OF,16500000.00,a,1
+370,"Guerrero, Vladimir",Los Angeles Angels,OF,15500000.00,a,1
+371,"Anderson, Garrett",Los Angeles Angels,OF,12600000.00,a,1
+372,"Garland, Jon",Los Angeles Angels,P,12000000.00,a,1
+373,"Rodriguez, Francisco",Los Angeles Angels,P,10000000.00,a,1
+374,"Escobar, Kelvim",Los Angeles Angels,P,9500000.00,a,1
+375,"Matthews, Gary",Los Angeles Angels,OF,9400000.00,a,1
+376,"Lackey, John",Los Angeles Angels,P,7333333.00,a,1
+377,"Figgins, Chone",Los Angeles Angels,3B,4750000.00,a,1
+378,"Shields, Scot",Los Angeles Angels,P,4250000.00,a,1
+379,"Speier, Justin",Los Angeles Angels,P,4250000.00,a,1
+380,"Rivera, Juan",Los Angeles Angels,OF,2025000.00,a,1
+381,"Oliver, Darren",Los Angeles Angels,P,2000000.00,a,1
+382,"Kotchman, Casey",Los Angeles Angels,1B,1450000.00,a,1
+383,"Izturis, Maicer",Los Angeles Angels,SS,1200000.00,a,1
+384,"Quinlan, Robb",Los Angeles Angels,1B,1050000.00,a,1
+385,"Weaver, Jered",Los Angeles Angels,P,435000.00,a,0
+386,"Kendrick, Howie",Los Angeles Angels,2B,432500.00,a,0
+387,"Willits, Reggie",Los Angeles Angels,OF,432500.00,a,0
+388,"Napoli, Mike",Los Angeles Angels,C,425000.00,a,0
+389,"Saunders, Joe",Los Angeles Angels,P,425000.00,a,0
+390,"Moseley, Dustin",Los Angeles Angels,P,420000.00,a,0
+391,"Santana, Ervin",Los Angeles Angels,P,420000.00,a,0
+392,"Aybar, Erick",Los Angeles Angels,SS,415000.00,a,0
+393,"Bootcheck, Chris",Los Angeles Angels,P,415000.00,a,0
+394,"Mathis, Jeff",Los Angeles Angels,C,415000.00,a,0
+395,"Bulger, Jason",Los Angeles Angels,P,392000.00,a,0
+396,"Thompson, Rich G.",Los Angeles Angels,P,391000.00,a,0
+397,"O'Day, Darren",Los Angeles Angels,P,390000.00,a,0
+398,"Furcal, Rafael",Los Angeles Dodgers,SS,15730195.00,n,1
+399,"Schmidt, Jason",Los Angeles Dodgers,P,15217401.00,n,1
+400,"Jones, Andruw",Los Angeles Dodgers,OF,14726910.00,n,1
+401,"Lowe, Derek",Los Angeles Dodgers,P,10000000.00,n,1
+402,"Garciaparra, Nomar",Los Angeles Dodgers,1B,9516697.00,n,1
+403,"Penny, Brad",Los Angeles Dodgers,P,9250000.00,n,1
+404,"Kent, Jeff",Los Angeles Dodgers,2B,9000000.00,n,1
+405,"Pierre, Juan",Los Angeles Dodgers,OF,8000000.00,n,1
+406,"Loaiza, Esteban",Los Angeles Dodgers,P,7500000.00,n,1
+407,"Kuroda, Hiroki",Los Angeles Dodgers,P,7433333.00,n,1
+408,"Saito, Takashi",Los Angeles Dodgers,P,2000000.00,n,1
+409,"Beimel, Joe",Los Angeles Dodgers,P,1925000.00,n,1
+410,"Proctor, Scott",Los Angeles Dodgers,P,1115000.00,n,1
+411,"Bennett, Gary",Los Angeles Dodgers,C,825000.00,n,0
+412,"Sweeney, Mark",Los Angeles Dodgers,1B,600000.00,n,0
+413,"Martin, Russell",Los Angeles Dodgers,C,500000.00,n,0
+414,"Broxton, Jonathan",Los Angeles Dodgers,P,454000.00,n,0
+415,"Ethier, Andre",Los Angeles Dodgers,OF,424500.00,n,0
+416,"Billingsley, Chad",Los Angeles Dodgers,P,415000.00,n,0
+417,"Loney, James",Los Angeles Dodgers,1B,411000.00,n,0
+418,"Kemp, Matt",Los Angeles Dodgers,OF,406000.00,n,0
+419,"Chavez, Angel",Los Angeles Dodgers,3B,400000.00,n,0
+420,"Abreu, Tony",Los Angeles Dodgers,3B,393000.00,n,0
+421,"LaRoche, Andy",Los Angeles Dodgers,3B,392500.00,n,0
+422,"Kuo, Hong-Chih",Los Angeles Dodgers,P,392000.00,n,0
+423,"Young, Delwyn",Los Angeles Dodgers,OF,391000.00,n,0
+424,"DeWitt, Blake",Los Angeles Dodgers,3B,390000.00,n,0
+425,"Hu, Chin-lung",Los Angeles Dodgers,SS,390000.00,n,0
+426,"Troncoso, Ramon",Los Angeles Dodgers,P,390000.00,n,0
+427,"Sheets, Ben",Milwaukee Brewers,P,12125000.00,n,1
+428,"Gagne, Eric",Milwaukee Brewers,P,10000000.00,n,1
+429,"Suppan, Jeff",Milwaukee Brewers,P,8250000.00,n,1
+430,"Cameron, Mike",Milwaukee Brewers,OF,6250000.00,n,1
+431,"Hall, Bill",Milwaukee Brewers,3B,4925000.00,n,1
+432,"Kendall, Jason",Milwaukee Brewers,C,4250000.00,n,1
+433,"Riske, David",Milwaukee Brewers,P,4000000.00,n,1
+434,"Capuano, Chris",Milwaukee Brewers,P,3750000.00,n,1
+435,"Turnbow, Derrick",Milwaukee Brewers,P,3370666.00,n,1
+436,"Torres, Salomon",Milwaukee Brewers,P,3333333.00,n,1
+437,"Mota, Guillermo",Milwaukee Brewers,P,3200000.00,n,1
+438,"Counsell, Craig",Milwaukee Brewers,2B,2800000.00,n,1
+439,"Hardy, JJ",Milwaukee Brewers,SS,2650000.00,n,1
+440,"Bush, David",Milwaukee Brewers,P,2550000.00,n,1
+441,"Shouse, Brian",Milwaukee Brewers,P,2000000.00,n,1
+442,"Weeks, Rickie",Milwaukee Brewers,2B,1056000.00,n,1
+443,"Kapler, Gabe",Milwaukee Brewers,OF,800000.00,n,0
+444,"McClung, Seth",Milwaukee Brewers,P,750000.00,n,0
+445,"Fielder, Prince",Milwaukee Brewers,1B,670000.00,n,0
+446,"Choate, Randy",Milwaukee Brewers,P,500000.00,n,0
+447,"Braun, Ryan",Milwaukee Brewers,3B,455000.00,n,0
+448,"Hart, Corey",Milwaukee Brewers,OF,444000.00,n,0
+449,"Gross, Gabe",Milwaukee Brewers,OF,414000.00,n,0
+450,"Villanueva, Carlos",Milwaukee Brewers,P,413000.00,n,0
+451,"Gallardo, Yovani",Milwaukee Brewers,P,404000.00,n,0
+452,"Gwynn Jr., Tony",Milwaukee Brewers,OF,397500.00,n,0
+453,"Rivera, Mike",Milwaukee Brewers,C,395000.00,n,0
+454,"Dillon, Joe",Milwaukee Brewers,2B,393000.00,n,0
+455,"Parra, Manny",Milwaukee Brewers,P,392000.00,n,0
+456,"Morneau, Justin",Minnesota Twins,1B,8400000.00,a,1
+457,"Mauer, Joe",Minnesota Twins,C,6250000.00,a,1
+458,"Nathan, Joe",Minnesota Twins,P,6000000.00,a,1
+459,"Cuddyer, Michael",Minnesota Twins,OF,5916666.00,a,1
+460,"Hernandez, Livan",Minnesota Twins,P,5000000.00,a,1
+461,"Monroe, Craig",Minnesota Twins,OF,3820000.00,a,1
+462,"Lamb, Mike",Minnesota Twins,3B,3500000.00,a,1
+463,"Everett, Adam",Minnesota Twins,SS,2800000.00,a,1
+464,"Rincon, Juan",Minnesota Twins,P,2475000.00,a,1
+465,"Punto, Nick",Minnesota Twins,3B,2400000.00,a,1
+466,"Young, Delmon",Minnesota Twins,OF,1440000.00,a,1
+467,"Kubel, Jason",Minnesota Twins,OF,1300000.00,a,1
+468,"Crain, Jesse",Minnesota Twins,P,1050000.00,a,1
+469,"Reyes, Dennys",Minnesota Twins,P,1000000.00,a,1
+470,"Guerrier, Matt",Minnesota Twins,P,950000.00,a,0
+471,"Redmond, Mike",Minnesota Twins,C,950000.00,a,0
+472,"Neshek, Pat",Minnesota Twins,P,435000.00,a,0
+473,"Bonser, Boof",Minnesota Twins,P,432500.00,a,0
+474,"Harris, Brendan",Minnesota Twins,SS,431100.00,a,0
+475,"Baker, Scott",Minnesota Twins,P,422500.00,a,0
+476,"Gomez, Carlos",Minnesota Twins,OF,395000.00,a,0
+477,"Slowey, Kevin",Minnesota Twins,P,395000.00,a,0
+478,"Bass, Brian",Minnesota Twins,P,390000.00,a,0
+479,"Blackburn, Nick",Minnesota Twins,P,390000.00,a,0
+480,"Tolbert, Matt",Minnesota Twins,2B,390000.00,a,0
+481,"Beltran, Carlos",New York Mets,OF,18622809.00,n,1
+482,"Santana, Johan",New York Mets,P,16984216.00,n,1
+483,"Delgado, Carlos",New York Mets,1B,16000000.00,n,1
+484,"Martinez, Pedro J.",New York Mets,P,11813351.00,n,1
+485,"Wagner, Billy",New York Mets,P,10500000.00,n,1
+486,"Alou, Moises",New York Mets,OF,7500000.00,n,1
+487,"Hernandez, Orlando",New York Mets,P,7000000.00,n,1
+488,"Perez, Oliver",New York Mets,P,6500000.00,n,1
+489,"Castillo, Luis A.",New York Mets,2B,6250000.00,n,1
+490,"Wright, David",New York Mets,3B,5250000.00,n,1
+491,"Schneider, Brian",New York Mets,C,4900000.00,n,1
+492,"Reyes, Jose",New York Mets,SS,4375000.00,n,1
+493,"Schoeneweis, Scott",New York Mets,P,3600000.00,n,1
+494,"Church, Ryan",New York Mets,OF,2000000.00,n,1
+495,"Sosa, Jorge",New York Mets,P,2000000.00,n,1
+496,"Pelfrey, Mike",New York Mets,P,1987500.00,n,1
+497,"Castro, Ramon",New York Mets,C,1975000.00,n,1
+498,"Chavez, Endy",New York Mets,OF,1800000.00,n,1
+499,"Heilman, Aaron",New York Mets,P,1200000.00,n,1
+500,"Wise, Matt",New York Mets,P,1200000.00,n,1
+501,"Anderson, Marlon",New York Mets,2B,1050000.00,n,1
+502,"Feliciano, Pedro",New York Mets,P,1025000.00,n,1
+503,"Easley, Damion",New York Mets,2B,950000.00,n,0
+504,"Sanchez, Duaner",New York Mets,P,850000.00,n,0
+505,"Maine, John",New York Mets,P,450000.00,n,0
+506,"Burgos, Ambiorix",New York Mets,P,415000.00,n,0
+507,"Stokes, Brian",New York Mets,P,402000.00,n,0
+508,"Pagan, Angel",New York Mets,OF,401500.00,n,0
+509,"Smith, Joe",New York Mets,P,398000.00,n,0
+510,"Vargas, Jason",New York Mets,P,394000.00,n,0
+511,"Rodriguez, Alex",New York Yankees,3B,28000000.00,a,1
+512,"Giambi, Jason",New York Yankees,DH,23428571.00,a,1
+513,"Jeter, Derek",New York Yankees,SS,21600000.00,a,1
+514,"Abreu, Bobby",New York Yankees,OF,16000000.00,a,1
+515,"Pettitte, Andy",New York Yankees,P,16000000.00,a,1
+516,"Rivera, Mariano",New York Yankees,P,15000000.00,a,1
+517,"Posada, Jorge",New York Yankees,C,13100000.00,a,1
+518,"Damon, Johnny",New York Yankees,OF,13000000.00,a,1
+519,"Matsui, Hideki",New York Yankees,OF,13000000.00,a,1
+520,"Mussina, Mike",New York Yankees,P,11071029.00,a,1
+521,"Pavano, Carl",New York Yankees,P,11000000.00,a,1
+522,"Farnsworth, Kyle",New York Yankees,P,5916666.00,a,1
+523,"Wang, Chien-Ming",New York Yankees,P,4000000.00,a,1
+524,"Hawkins, LaTroy",New York Yankees,P,3750000.00,a,1
+525,"Cano, Robinson",New York Yankees,2B,3000000.00,a,1
+526,"Molina, Jose",New York Yankees,C,1875000.00,a,1
+527,"Ensberg, Morgan",New York Yankees,3B,1750000.00,a,1
+528,"Brackman, Andrew",New York Yankees,P,1184788.00,a,1
+529,"Betemit, Wilson",New York Yankees,3B,1165000.00,a,1
+530,"Bruney, Brian",New York Yankees,P,725000.00,a,0
+531,"Traber, Billy",New York Yankees,P,500000.00,a,0
+532,"Cabrera, Melky",New York Yankees,OF,461200.00,a,0
+533,"Hughes, Phil",New York Yankees,P,406350.00,a,0
+534,"Duncan, Shelley",New York Yankees,DH,398300.00,a,0
+535,"Henn, Sean",New York Yankees,P,397448.00,a,0
+536,"Kennedy, Ian",New York Yankees,P,394275.00,a,0
+537,"Karstens, Jeffrey",New York Yankees,P,393300.00,a,0
+538,"Albaladejo, Jon",New York Yankees,P,393224.00,a,0
+539,"Ohlendorf, Ross",New York Yankees,P,391425.00,a,0
+540,"Chamberlain, Joba",New York Yankees,P,390000.00,a,0
+541,"Sanchez, Humberto",New York Yankees,P,390000.00,a,0
+542,"Chavez, Eric",Oakland Athletics,3B,11500000.00,a,1
+543,"Ellis, Mark",Oakland Athletics,2B,5000000.00,a,1
+544,"Harden, Rich",Oakland Athletics,P,4750000.00,a,1
+545,"Blanton, Joe",Oakland Athletics,P,3700000.00,a,1
+546,"Crosby, Bobby",Oakland Athletics,SS,3550000.00,a,1
+547,"Street, Huston",Oakland Athletics,P,3300000.00,a,1
+548,"Embree, Alan",Oakland Athletics,P,3107126.00,a,1
+549,"Gaudin, Chad",Oakland Athletics,P,1775000.00,a,1
+550,"Brown, Emil",Oakland Athletics,OF,1400000.00,a,1
+551,"Duchscherer, Justin",Oakland Athletics,P,1200000.00,a,1
+552,"Calero, Kiko",Oakland Athletics,P,1000000.00,a,1
+553,"DiNardo, Lenny",Oakland Athletics,P,900000.00,a,0
+554,"Foulke, Keith",Oakland Athletics,P,700000.00,a,0
+555,"Sweeney, Mike",Oakland Athletics,1B,500000.00,a,0
+556,"Bowen, Rob",Oakland Athletics,C,410000.00,a,0
+557,"Cust, Jack",Oakland Athletics,DH,410000.00,a,0
+558,"Johnson, Dan",Oakland Athletics,1B,410000.00,a,0
+559,"Buck, Travis",Oakland Athletics,OF,400000.00,a,0
+560,"Casilla, Santiago",Oakland Athletics,P,400000.00,a,0
+561,"Denorfia, Chris",Oakland Athletics,OF,400000.00,a,0
+562,"Murphy, Donnie",Oakland Athletics,2B,400000.00,a,0
+563,"Brown, Andrew",Oakland Athletics,P,395000.00,a,0
+564,"Eveland, Dana",Oakland Athletics,P,395000.00,a,0
+565,"Hannahan, Jack",Oakland Athletics,3B,395000.00,a,0
+566,"Suzuki, Kurt",Oakland Athletics,C,395000.00,a,0
+567,"Sweeney, Ryan",Oakland Athletics,OF,395000.00,a,0
+568,"Barton, Daric",Oakland Athletics,1B,390000.00,a,0
+569,"Thomas, Frank",Oakland Athletics,DH,337000.00,a,0
+570,"Burrell, Pat",Philadelphia Phillies,OF,14250000.00,n,1
+571,"Howard, Ryan",Philadelphia Phillies,1B,10000000.00,n,1
+572,"Myers, Brett",Philadelphia Phillies,P,8583333.00,n,1
+573,"Rollins, Jimmy",Philadelphia Phillies,SS,8000000.00,n,1
+574,"Eaton, Adam",Philadelphia Phillies,P,7958333.00,n,1
+575,"Utley, Chase",Philadelphia Phillies,2B,7785714.00,n,1
+576,"Lidge, Brad",Philadelphia Phillies,P,6350000.00,n,1
+577,"Moyer, Jamie",Philadelphia Phillies,P,6000000.00,n,1
+578,"Gordon, Tom",Philadelphia Phillies,P,5500000.00,n,1
+579,"Jenkins, Geoff",Philadelphia Phillies,OF,5000000.00,n,1
+580,"Romero, JC",Philadelphia Phillies,P,3250000.00,n,1
+581,"Feliz, Pedro",Philadelphia Phillies,3B,3000000.00,n,1
+582,"Helms, Wes",Philadelphia Phillies,3B,2400000.00,n,1
+583,"Werth, Jason",Philadelphia Phillies,OF,1700000.00,n,1
+584,"Madson, Ryan",Philadelphia Phillies,P,1400000.00,n,1
+585,"Durbin, Chad",Philadelphia Phillies,P,900000.00,n,0
+586,"Taguchi, So",Philadelphia Phillies,OF,900000.00,n,0
+587,"Bruntlett, Eric",Philadelphia Phillies,SS,600000.00,n,0
+588,"Hamels, Cole",Philadelphia Phillies,P,500000.00,n,0
+589,"Victorino, Shane",Philadelphia Phillies,OF,480000.00,n,0
+590,"Kendrick, Kyle",Philadelphia Phillies,P,445000.00,n,0
+591,"Dobbs, Greg",Philadelphia Phillies,3B,440000.00,n,0
+592,"Ruiz, Carlos",Philadelphia Phillies,C,425000.00,n,0
+593,"Condrey, Clayton",Philadelphia Phillies,P,420000.00,n,0
+594,"Coste, Chris",Philadelphia Phillies,C,415000.00,n,0
+595,"Rosario, Francisco",Philadelphia Phillies,P,395000.00,n,0
+596,"Zagurski, Mike",Philadelphia Phillies,P,392500.00,n,0
+597,"Lahey, Tim",Philadelphia Phillies,P,390000.00,n,0
+598,"Mathieson, Scott",Philadelphia Phillies,P,390000.00,n,0
+599,"Morris, Matt",Pittsburgh Pirates,P,10037283.00,n,1
+600,"Wilson, Jack",Pittsburgh Pirates,SS,6650000.00,n,1
+601,"Bay, Jason",Pittsburgh Pirates,OF,6000000.00,n,1
+602,"LaRoche, Adam",Pittsburgh Pirates,1B,5000000.00,n,1
+603,"Sanchez, Freddy",Pittsburgh Pirates,2B,4150000.00,n,1
+604,"Nady, Xavier",Pittsburgh Pirates,OF,3350000.00,n,1
+605,"Marte, Damaso",Pittsburgh Pirates,P,2150000.00,n,1
+606,"Bautista, Jose A.",Pittsburgh Pirates,3B,1800000.00,n,1
+607,"Grabow, John",Pittsburgh Pirates,P,1135000.00,n,1
+608,"Gomez, Chris",Pittsburgh Pirates,SS,1000000.00,n,1
+609,"Yates, Tyler",Pittsburgh Pirates,P,800000.00,n,0
+610,"Mientkiewicz, Doug",Pittsburgh Pirates,1B,750000.00,n,0
+611,"Rivas, Luis",Pittsburgh Pirates,2B,525000.00,n,0
+612,"Capps, Matt",Pittsburgh Pirates,P,435500.00,n,0
+613,"Snell, Ian",Pittsburgh Pirates,P,435000.00,n,0
+614,"McLouth, Nate",Pittsburgh Pirates,OF,425000.00,n,0
+615,"Maholm, Paul",Pittsburgh Pirates,P,424500.00,n,0
+616,"Paulino, Ronny",Pittsburgh Pirates,C,423500.00,n,0
+617,"Gorzelanny, Tom",Pittsburgh Pirates,P,419000.00,n,0
+618,"Doumit, Ryan",Pittsburgh Pirates,C,412000.00,n,0
+619,"Duffy, Chris",Pittsburgh Pirates,OF,403500.00,n,0
+620,"Duke, Zach",Pittsburgh Pirates,P,400000.00,n,0
+621,"Osoria, Franquelis",Pittsburgh Pirates,P,393000.00,n,0
+622,"Morgan, Nyjer",Pittsburgh Pirates,OF,391000.00,n,0
+623,"Dumatrait, Phillip",Pittsburgh Pirates,P,390500.00,n,0
+624,"Meek, Evan",Pittsburgh Pirates,P,390000.00,n,0
+625,"Maddux, Greg",San Diego Padres,P,10000000.00,n,1
+626,"Giles, Brian",San Diego Padres,OF,9666666.00,n,1
+627,"Edmonds, Jim",San Diego Padres,OF,8000000.00,n,1
+628,"Hoffman, Trevor",San Diego Padres,P,7500000.00,n,1
+629,"Peavy, Jake",San Diego Padres,P,6500000.00,n,1
+630,"Wolf, Randy",San Diego Padres,P,4750000.00,n,1
+631,"Greene, Khalil",San Diego Padres,SS,4500000.00,n,1
+632,"Iguchi, Tadahito",San Diego Padres,2B,3850000.00,n,1
+633,"Barrett, Michael",San Diego Padres,C,3500000.00,n,1
+634,"Young, Chris R.",San Diego Padres,P,2625000.00,n,1
+635,"Bard, Josh",San Diego Padres,C,2237500.00,n,1
+636,"Prior, Mark",San Diego Padres,P,1000000.00,n,1
+637,"Clark, Tony",San Diego Padres,1B,900000.00,n,0
+638,"Gonzalez, Adrian",San Diego Padres,1B,875000.00,n,0
+639,"Rusch, Glendon",San Diego Padres,P,850000.00,n,0
+640,"Gerut, Jody",San Diego Padres,OF,700000.00,n,0
+641,"Ledezma, Wilfredo",San Diego Padres,P,620000.00,n,0
+642,"Bell, Heath",San Diego Padres,P,420000.00,n,0
+643,"Meredith, Cla",San Diego Padres,P,415000.00,n,0
+644,"Hensley, Clay",San Diego Padres,P,410000.00,n,0
+645,"Kouzmanoff, Kevin",San Diego Padres,3B,410000.00,n,0
+646,"Hairston, Scott",San Diego Padres,OF,406000.00,n,0
+647,"Germano, Justin",San Diego Padres,P,404500.00,n,0
+648,"Hampson, Justin",San Diego Padres,P,402500.00,n,0
+649,"Thatcher, Joe",San Diego Padres,P,393000.00,n,0
+650,"McAnulty, Paul",San Diego Padres,OF,391250.00,n,0
+651,"Stauffer, Tim",San Diego Padres,P,391200.00,n,0
+652,"Crabbe, Callix",San Diego Padres,2B,390000.00,n,0
+653,"Gonzalez, Enrique",San Diego Padres,P,390000.00,n,0
+654,"Guevara, Carlos",San Diego Padres,P,390000.00,n,0
+655,"Huber, Justin",San Diego Padres,OF,390000.00,n,0
+656,"Zito, Barry",San Francisco Giants,P,14500000.00,n,1
+657,"Rowand, Aaron",San Francisco Giants,OF,9600000.00,n,1
+658,"Winn, Randy",San Francisco Giants,OF,8875000.00,n,1
+659,"Roberts, Dave",San Francisco Giants,OF,6500000.00,n,1
+660,"Molina, Bengie",San Francisco Giants,C,6250000.00,n,1
+661,"Vizquel, Omar",San Francisco Giants,SS,5000000.00,n,1
+662,"Aurilia, Rich",San Francisco Giants,1B/3B,4500000.00,n,1
+663,"Lowry, Noah",San Francisco Giants,P,2500000.00,n,1
+664,"Hennessey, Brad",San Francisco Giants,P,1600000.00,n,1
+665,"Correia, Kevin",San Francisco Giants,P,1075000.00,n,1
+666,"Cain, Matt",San Francisco Giants,P,950000.00,n,0
+667,"Chulk, Vinny",San Francisco Giants,P,837500.00,n,0
+668,"Durham, Ray",San Francisco Giants,2B,750000.00,n,0
+669,"Walker, Tyler",San Francisco Giants,P,750000.00,n,0
+670,"Castillo, Jose",San Francisco Giants,3B,650000.00,n,0
+671,"Lincecum, Tim",San Francisco Giants,P,405000.00,n,0
+672,"Taschner, Jack",San Francisco Giants,P,400500.00,n,0
+673,"Frandsen, Kevin",San Francisco Giants,2B,397500.00,n,0
+674,"Sanchez, Jonathan",San Francisco Giants,P,395000.00,n,0
+675,"Davis, Rajai",San Francisco Giants,OF,392500.00,n,0
+676,"Wilson, Brian",San Francisco Giants,P,392500.00,n,0
+677,"Lewis, Fred",San Francisco Giants,OF,392000.00,n,0
+678,"Ortmeier, Dan",San Francisco Giants,1B,392000.00,n,0
+679,"Bocock, Brian",San Francisco Giants,SS,390000.00,n,0
+680,"Holm, Stephen",San Francisco Giants,C,390000.00,n,0
+681,"Threets, Erick",San Francisco Giants,P,390000.00,n,0
+682,"Valdez, Merkin",San Francisco Giants,P,390000.00,n,0
+683,"Velez, Eugenio",San Francisco Giants,2B,390000.00,n,0
+684,"Yabu, Keiichi",San Francisco Giants,P,390000.00,n,0
+685,"Suzuki, Ichiro",Seattle Mariners,OF,17102149.00,a,1
+686,"Sexson, Richie",Seattle Mariners,1B,15500000.00,a,1
+687,"Beltre, Adrian",Seattle Mariners,3B,13400000.00,a,1
+688,"Washburn, Jarrod",Seattle Mariners,P,9850000.00,a,1
+689,"Batista, Miguel",Seattle Mariners,P,9500000.00,a,1
+690,"Vidro, Jose",Seattle Mariners,DH,8500000.00,a,1
+691,"Silva, Carlos",Seattle Mariners,P,8250000.00,a,1
+692,"Bedard, Erik",Seattle Mariners,P,7000000.00,a,1
+693,"Johjima, Kenji",Seattle Mariners,C,6383333.00,a,1
+694,"Ibanez, Raul",Seattle Mariners,OF,5500000.00,a,1
+695,"Putz, JJ",Seattle Mariners,P,4400000.00,a,1
+696,"Wilkerson, Brad",Seattle Mariners,OF,3000000.00,a,1
+697,"Lopez, Jose C.",Seattle Mariners,2B,1750000.00,a,1
+698,"Betancourt, Yuniesky",Seattle Mariners,SS,1550000.00,a,1
+699,"Bloomquist, Willie",Seattle Mariners,2B,1000000.00,a,1
+700,"Cairo, Miguel",Seattle Mariners,1B,850000.00,a,0
+701,"Hernandez, Felix",Seattle Mariners,P,540000.00,a,0
+702,"Burke, Jamie",Seattle Mariners,C,435000.00,a,0
+703,"Green, Sean",Seattle Mariners,P,405000.00,a,0
+704,"O'Flaherty, Eric",Seattle Mariners,P,400000.00,a,0
+705,"Rowland-Smith, Ryan",Seattle Mariners,P,395000.00,a,0
+706,"Morse, Mike",Seattle Mariners,3B,393500.00,a,0
+707,"Baek, Cha Seung",Seattle Mariners,P,392500.00,a,0
+708,"Garcia, Anderson",Seattle Mariners,P,390000.00,a,0
+709,"Jimerson, Charlton",Seattle Mariners,OF,390000.00,a,0
+710,"Lowe, Mark",Seattle Mariners,P,390000.00,a,0
+711,"Pujols, Albert",St. Louis Cardinals,1B,13870949.00,n,1
+712,"Glaus, Troy",St. Louis Cardinals,3B,12500000.00,n,1
+713,"Carpenter, Chris",St. Louis Cardinals,P,10500000.00,n,1
+714,"Isringhausen, Jason",St. Louis Cardinals,P,8000000.00,n,1
+715,"Mulder, Mark",St. Louis Cardinals,P,7000000.00,n,1
+716,"Encarnacion, Juan",St. Louis Cardinals,OF,6500000.00,n,1
+717,"Looper, Braden",St. Louis Cardinals,P,5500000.00,n,1
+718,"Pineiro, Joel",St. Louis Cardinals,P,5500000.00,n,1
+719,"Lohse, Kyle",St. Louis Cardinals,P,4250000.00,n,1
+720,"Kennedy, Adam",St. Louis Cardinals,2B,3500000.00,n,1
+721,"Springer, Russ",St. Louis Cardinals,P,3500000.00,n,1
+722,"Izturis, Cesar",St. Louis Cardinals,SS,2850000.00,n,1
+723,"Franklin, Ryan",St. Louis Cardinals,P,2250000.00,n,1
+724,"Molina, Yadier",St. Louis Cardinals,C,1812500.00,n,1
+725,"Miles, Aaron",St. Louis Cardinals,2B,1400000.00,n,1
+726,"Clement, Matt",St. Louis Cardinals,P,1250000.00,n,1
+727,"Flores, Randy",St. Louis Cardinals,P,1000000.00,n,1
+728,"Wellemeyer, Todd",St. Louis Cardinals,P,1000000.00,n,1
+729,"Ankiel, Rick",St. Louis Cardinals,P,900000.00,n,0
+730,"LaRue, Jason",St. Louis Cardinals,C,850000.00,n,0
+731,"Wainwright, Adam",St. Louis Cardinals,P,687500.00,n,0
+732,"Villone, Ron",St. Louis Cardinals,P,600000.00,n,0
+733,"Duncan, Chris",St. Louis Cardinals,OF,439000.00,n,0
+734,"Thompson, Brad",St. Louis Cardinals,P,414000.00,n,0
+735,"Ludwick, Ryan",St. Louis Cardinals,OF,411000.00,n,0
+736,"Johnson, Tyler",St. Louis Cardinals,P,398000.00,n,0
+737,"Schumaker, Skip",St. Louis Cardinals,OF,396000.00,n,0
+738,"Ryan, Brendan",St. Louis Cardinals,SS,393000.00,n,0
+739,"Reyes, Anthony",St. Louis Cardinals,P,392500.00,n,0
+740,"Barton, Brian",St. Louis Cardinals,OF,390000.00,n,0
+741,"Kinney, Josh",St. Louis Cardinals,P,390000.00,n,0
+742,"McClellan, Kyle",St. Louis Cardinals,P,390000.00,n,0
+743,"Washington, Rico",St. Louis Cardinals,SS,390000.00,n,0
+744,"Pena, Carlos",Tampa Bay Rays,1B,6000000.00,a,1
+745,"Crawford, Carl",Tampa Bay Rays,OF,5375000.00,a,1
+746,"Percival, Troy",Tampa Bay Rays,P,3897797.00,a,1
+747,"Kazmir, Scott",Tampa Bay Rays,P,3785000.00,a,1
+748,"Wheeler, Dan",Tampa Bay Rays,P,2875000.00,a,1
+749,"Floyd, Cliff",Tampa Bay Rays,OF,2750000.00,a,1
+750,"Iwamura, Akinori",Tampa Bay Rays,2B,2400000.00,a,1
+751,"Reyes, Al",Tampa Bay Rays,P,2300000.00,a,1
+752,"Baldelli, Rocco",Tampa Bay Rays,OF,2250000.00,a,1
+753,"Miller, Trever",Tampa Bay Rays,P,1600000.00,a,1
+754,"Gomes, Jonny",Tampa Bay Rays,DH,1275000.00,a,1
+755,"Glover, Gary",Tampa Bay Rays,P,1075000.00,a,1
+756,"Shields, James",Tampa Bay Rays,P,1000000.00,a,1
+757,"Hinske, Eric",Tampa Bay Rays,1B,800000.00,a,0
+758,"Bartlett, Jason",Tampa Bay Rays,SS,416600.00,a,0
+759,"Jackson, Edwin",Tampa Bay Rays,P,412700.00,a,0
+760,"Navarro, Dioner",Tampa Bay Rays,C,412500.00,a,0
+761,"Dohmann, Scott",Tampa Bay Rays,P,412400.00,a,0
+762,"Upton, BJ",Tampa Bay Rays,3B,412100.00,a,0
+763,"Garza, Matt",Tampa Bay Rays,P,404600.00,a,0
+764,"Aybar, Willy",Tampa Bay Rays,3B,401200.00,a,0
+765,"Orvella, Chad",Tampa Bay Rays,P,400700.00,a,0
+766,"Haynes, Nathan",Tampa Bay Rays,OF,400000.00,a,0
+767,"Birkins, Kurt",Tampa Bay Rays,P,397600.00,a,0
+768,"Howell, JP",Tampa Bay Rays,P,397400.00,a,0
+769,"Hammel, Jason",Tampa Bay Rays,P,396300.00,a,0
+770,"Sonnanstine, Andy",Tampa Bay Rays,P,395800.00,a,0
+771,"Zobrist, Ben",Tampa Bay Rays,SS,395800.00,a,0
+772,"Riggans, Shawn",Tampa Bay Rays,C,392100.00,a,0
+773,"Johnson, Elliot",Tampa Bay Rays,2B,390000.00,a,0
+774,"Padilla, Vicente",Texas Rangers,P,11000000.00,a,1
+775,"Millwood, Kevin",Texas Rangers,P,10368892.00,a,1
+776,"Young, Michael",Texas Rangers,2B,6174974.00,a,1
+777,"Blalock, Hank",Texas Rangers,3B,6000000.00,a,1
+778,"Bradley, Milton",Texas Rangers,OF,5250000.00,a,1
+779,"Catalanotto, Frank",Texas Rangers,OF,4000000.00,a,1
+780,"Jennings, Jason",Texas Rangers,P,4000000.00,a,1
+781,"Broussard, Ben",Texas Rangers,1B,3850000.00,a,1
+782,"Benoit, Joaquin",Texas Rangers,P,2250000.00,a,1
+783,"Guardado, Eddie",Texas Rangers,p,2000000.00,a,1
+784,"Byrd, Marlon",Texas Rangers,OF,1800000.00,a,1
+785,"Laird, Gerald",Texas Rangers,C,1600000.00,a,1
+786,"Fukumori, Kazuo",Texas Rangers,P,1400000.00,a,1
+787,"Wright, Jamey",Texas Rangers,P,1000000.00,a,1
+788,"Vazquez, Ramon",Texas Rangers,3B,810000.00,a,0
+789,"Melhuse, Adam",Texas Rangers,C,750000.00,a,0
+790,"Kinsler, Ian",Texas Rangers,2B,700000.00,a,0
+791,"Wilson, CJ",Texas Rangers,P,417460.00,a,0
+792,"McCarthy, Brandon",Texas Rangers,P,404760.00,a,0
+793,"Hamilton, Josh",Texas Rangers,OF,396830.00,a,0
+794,"Gabbard, Kason",Texas Rangers,P,396390.00,a,0
+795,"Nippert, Dustin",Texas Rangers,P,395500.00,a,0
+796,"Rheinecker, John",Texas Rangers,P,395330.00,a,0
+797,"Botts, Jason",Texas Rangers,DH,394190.00,a,0
+798,"Murphy, David",Texas Rangers,OF,393000.00,a,0
+799,"Metcalf, Travis",Texas Rangers,3B,392000.00,a,0
+800,"Rupe, Josh",Texas Rangers,P,392000.00,a,0
+801,"Mendoza, Luis A.",Texas Rangers,P,391000.00,a,0
+802,"German, Franklyn",Texas Rangers,P,390000.00,a,0
+803,"Burnett, AJ",Toronto Blue Jays,P,13200000.00,a,1
+804,"Ryan, BJ",Toronto Blue Jays,P,12000000.00,a,1
+805,"Rolen, Scott",Toronto Blue Jays,3B,11625000.00,a,1
+806,"Hallladay, Roy",Toronto Blue Jays,P,10000000.00,a,1
+807,"Overbay, Lyle",Toronto Blue Jays,1B,6750000.00,a,1
+808,"Rios, Alex",Toronto Blue Jays,OF,4835000.00,a,1
+809,"Eckstein, David",Toronto Blue Jays,SS,4500000.00,a,1
+810,"Zaun, Gregg",Toronto Blue Jays,C,3750000.00,a,1
+811,"Wells, Vernon",Toronto Blue Jays,OF,3687500.00,a,1
+812,"Downs, Scott",Toronto Blue Jays,P,2250000.00,a,1
+813,"McDonald, John",Toronto Blue Jays,SS,1900000.00,a,1
+814,"Stairs, Matt",Toronto Blue Jays,OF,1625000.00,a,1
+815,"Scutaro, Marco",Toronto Blue Jays,SS,1550000.00,a,1
+816,"Stewart, Shannon",Toronto Blue Jays,OF,1500000.00,a,1
+817,"Frasor, Jason",Toronto Blue Jays,P,1125000.00,a,1
+818,"Barajas, Rod",Toronto Blue Jays,C,700000.00,a,0
+819,"Tallet, Brian",Toronto Blue Jays,P,640000.00,a,0
+820,"Hill, Aaron",Toronto Blue Jays,2B,410000.00,a,0
+821,"McGowan, Dustin",Toronto Blue Jays,P,404100.00,a,0
+822,"Jannssen, Casey",Toronto Blue Jays,P,403900.00,a,0
+823,"Marcum, Shaun",Toronto Blue Jays,P,402500.00,a,0
+824,"League, Brandon",Toronto Blue Jays,P,400300.00,a,0
+825,"Litsch, Jesse",Toronto Blue Jays,P,395800.00,a,0
+826,"Wolfe, Brian",Toronto Blue Jays,P,395500.00,a,0
+827,"Accardo, Jeremy",Toronto Blue Jays,P,392200.00,a,0
+828,"Coats, Buck",Toronto Blue Jays,OF,392100.00,a,0
+829,"Cordero, Chad",Washington Nationals,P,6200000.00,n,1
+830,"Johnson, Nick",Washington Nationals,1B,5500000.00,n,1
+831,"Kearns, Austin",Washington Nationals,OF,5000000.00,n,1
+832,"Lo Duca, Paul",Washington Nationals,C,5000000.00,n,1
+833,"Young, Dmitri",Washington Nationals,1B,5000000.00,n,1
+834,"Lopez, Felipe",Washington Nationals,2B,4900000.00,n,1
+835,"Guzman, Cristian",Washington Nationals,SS,4200000.00,n,1
+836,"Pena, Wily Mo",Washington Nationals,OF,2000000.00,n,1
+837,"Ayala, Luis",Washington Nationals,P,1700000.00,n,1
+838,"Belliard, Ronnie",Washington Nationals,2B,1600000.00,n,1
+839,"Mackowiak, Ron",Washington Nationals,OF,1500000.00,n,1
+840,"Colome, Jesus",Washington Nationals,P,1250000.00,n,1
+841,"Estrada, Johnny",Washington Nationals,C,1250000.00,n,1
+842,"Rauch, Jon",Washington Nationals,P,1200000.00,n,1
+843,"Boone, Aaron",Washington Nationals,1B,1000000.00,n,1
+844,"Redding, Tim",Washington Nationals,P,1000000.00,n,1
+845,"King, Ray",Washington Nationals,P,850000.00,n,0
+846,"Perez, Odalis",Washington Nationals,P,850000.00,n,0
+847,"Harris, Willie",Washington Nationals,OF,800000.00,n,0
+848,"Zimmerman, Ryan",Washington Nationals,3B,465000.00,n,0
+849,"Wagner, Ryan",Washington Nationals,P,450000.00,n,0
+850,"Rivera, Saul",Washington Nationals,P,436000.00,n,0
+851,"Chico, Matt",Washington Nationals,P,409000.00,n,0
+852,"Bergmann, Jason",Washington Nationals,P,404000.00,n,0
+853,"Milledge, Lastings",Washington Nationals,OF,402500.00,n,0
+854,"Hill, Shawn",Washington Nationals,P,402000.00,n,0
+855,"Flores, Jesus",Washington Nationals,C,400000.00,n,0
+856,"Hanrahan, Joel",Washington Nationals,P,400000.00,n,0
+857,"Dukes, Elijah",Washington Nationals,OF,392500.00,n,0
+,,,,3112100.88,,429
+,,,,4178114.87,,
