@@ -168,7 +168,9 @@ function samplingPanel() {
       if (yyy > maxy) {
         maxy = yyy;
       }
-      text(numberRight2(currentSample[i]), xxx, yyy);
+      if(currentSample[i]>=10000000){fill(120,20,220);}  //for samp-dist-of-p-hat where category of interest is above 10million 
+      else{fill(220, 120, 20);}
+      text(numberRight2(currentSample[i]), xxx, yyy);  //showing current sample values
       cx1 = 0.5357 * xWidth;
     }
   }
